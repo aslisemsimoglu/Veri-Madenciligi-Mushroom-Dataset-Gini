@@ -26,7 +26,7 @@ This project was developed as part of the **Data Mining Course** in the Departme
 - **Features**: 23  
 - **Target Variable**: `class` (edible: `e`, poisonous: `p`)  
 
-Dataset Link: [Kaggle Mushroom Dataset](https://www.kaggle.com/uciml/mushroom-classification)
+Dataset Link: [Kaggle Mushroom Dataset](https://www.kaggle.com/code/aslemimolu/veri-madencili-i-mushroom-dataset-gini-algoritmas)
 
 ---
 
