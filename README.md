@@ -34,7 +34,7 @@ Dataset Link: [Kaggle Mushroom Dataset](https://www.kaggle.com/code/aslemimolu/v
 ### 1️⃣ Data Exploration
 We analyzed the dataset's structure, unique values, and missing data:
 - **Total Features**: 23  
-- **Unique Values Per Feature**: Extracted for understanding categorical variety.  
+- **Unique Values Per Feature**: Extracted for understanding categorical variety.
 - **Missing Data**: Identified and processed.
 
 ### 2️⃣ Data Cleaning
