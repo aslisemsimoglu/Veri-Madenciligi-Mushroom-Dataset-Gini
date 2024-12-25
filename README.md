@@ -67,17 +67,6 @@ We analyzed the dataset's structure, unique values, and missing data:
 4. **Classification Analysis**:  
    Identified misclassified samples and examined reasons for inaccuracies.
 
----
-
-## 🖥️ Example Code
-
-### Load and Explore Data
-```python
-import pandas as pd
-
-# Load dataset
-data = pd.read_csv('/kaggle/input/mushroom-classification/mushrooms.csv')
-
 # Overview of data
 print(data.info())
 print(data.head())
